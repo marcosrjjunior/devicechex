@@ -1,0 +1,21 @@
+.Header {
+    color: #FFFFFF;
+    background-color: #2d2d2d;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.Header .url label {
+    margin-right: 10px;
+}
+
+.Header .devices {
+    font-size: 0.8em;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Devices {
+    padding: 5px 30px;
+}
